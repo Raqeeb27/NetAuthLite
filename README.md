@@ -18,6 +18,8 @@
 **Use it responsibly and in accordance with your university’s IT and network policies.**  
 **The author is not responsible for misuse or policy violations.**  
 
+<br>
+
 ## ✨ Features
 * One-command Wi-Fi login & logout
 * Automatic background keep-alive
@@ -25,12 +27,15 @@
 * Works even after closing the terminal
 * Automatically cleans up background processes
 
+<br>
+
 ## 🖥️ Requirements
 * Windows OS
 * PowerShell 5.1 or later
 * `curl` (included in modern Windows)
 * Connected to campus/university Wi-Fi
 
+<br>
 
 ## 📥 Installation
 
@@ -44,6 +49,8 @@ cd NetAuthLite
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
+
+<br>
 
 ## 💡Usage
 > Change your working directory to the project's root directory first
@@ -59,11 +66,16 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ./NetAuthLite.ps1 logout <username>
 ```
 
-<!-- ## ⚙️ How It Works
+<!-- 
+<br>
+
+## ⚙️ How It Works
 1. Sends login and logout requests directly to the campus gateway
 2. After login, a hidden PowerShell process periodically pings the server
 3. Keeps the session alive and prevents automatic disconnections
 4. Each user gets an isolated keep-alive process -->
+
+<br>
 
 ## 🚨 Common Issues
 
@@ -78,10 +90,13 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 **3. Maximum login limit reached**  
   &nbsp;&nbsp;→ You may already be logged in on another device
 
+<br>
 
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
+<br>
 
 ## 👨‍💻 Author - Mohammed Abdul Raqeeb
 *GitHub:* [Raqeeb27](https://github.com/Raqeeb27)
