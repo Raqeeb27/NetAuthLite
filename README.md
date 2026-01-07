@@ -33,6 +33,7 @@
 
 
 ## 📥 Installation
+
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Raqeeb27/NetAuthLite.git
@@ -72,7 +73,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
   &nbsp;&nbsp;→ Ensure you are connected to campus Wi-Fi
 
 **2. Invalid username or password**  
-  &nbsp;&nbsp;→ Verify credentials carefully
+  &nbsp;&nbsp;→ Verify your credentials carefully
 
 **3. Maximum login limit reached**  
   &nbsp;&nbsp;→ You may already be logged in on another device
