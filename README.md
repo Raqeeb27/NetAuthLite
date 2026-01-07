@@ -3,6 +3,15 @@
 ### A lightweight tool that automates campus Wi-Fi login and logout without using a browser.
 #### Introduces a silent background keep-alive process to prevent session timeouts.
 
+<div align=center>
+  
+### Target Operating Systems
+
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 ## ⚠️ Disclaimer
 **This script is intended for personal and educational use only.**  
 **Use it responsibly and in accordance with your university’s IT and network policies.**  
