@@ -1,6 +1,6 @@
 <div align=center>
   
-# 🛜 NetAuthLite
+# <span style="vertical-align: middle;"><img src='./assets/images/NetAuthLite-Logo.png' alt="NetAuthLite Logo" style="width:60px;height:auto; margin-bottom: -3px;"> NetAuthLite</span>
 
 ![NetAuthLite](./assets/images/NetAuthLite.jpg)
 
