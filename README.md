@@ -58,12 +58,12 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ### 🔐 Login to Campus Wi-Fi
 > Username must be exactly 12 digits
 ```powershell
-./NetAuthLite.ps1 login <username> <password>
+.\NetAuthLite.ps1 login <username> <password>
 ```
 
 ### 🔓 Logout from Campus Wi-Fi
 ```powershell
-./NetAuthLite.ps1 logout <username>
+.\NetAuthLite.ps1 logout <username>
 ```
 
 <!-- 
