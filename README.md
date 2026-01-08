@@ -53,7 +53,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 <br>
 
 ## 💡Usage
-> Change your working directory to the project's root directory first
+**Open `Powershell` and Change your working directory to the project's root directory**
 
 ### 🔐 Login to Campus Wi-Fi
 > Username must be exactly 12 digits
