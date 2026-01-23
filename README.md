@@ -5,7 +5,8 @@
 ![NetAuthLite](./assets/images/NetAuthLite.jpg)
 
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Powershell Badge](https://img.shields.io/badge/Powershell-badge?style=for-the-badge&color=%23012456)
 
 ### "*A lightweight tool that automates campus Wi-Fi login and logout without using a browser.*"
 
